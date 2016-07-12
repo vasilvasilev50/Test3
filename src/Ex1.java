@@ -1,5 +1,7 @@
 
 public class Ex1 {
+	
+	// prava promqna!!!
 
 	public static void main(String[] args) {
 		
