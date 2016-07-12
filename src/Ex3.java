@@ -1,6 +1,8 @@
 
 public class Ex3 {
 
+// i tuka syshto!
+
 	public static void main(String[] args) {
 		
 		
